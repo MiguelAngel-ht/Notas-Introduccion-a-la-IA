@@ -7,3 +7,9 @@ Notas del curso Introducción a la IA de Domestika.
 
 ## Indice
 
+1 - 
+2 - 
+3 -
+4 - 
+
+
