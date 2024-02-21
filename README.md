@@ -7,12 +7,12 @@ Notas del curso Introducción a la IA de Domestika.
 
 ## Indice
 
-1 - 
+1 - Regresión Lineal Básica
 
-2 - 
+2 - Manejo de Datos
 
-3 -
+3 - Regresión Logística
 
-4 - 
+4 - Árbol de Desición 
 
 
