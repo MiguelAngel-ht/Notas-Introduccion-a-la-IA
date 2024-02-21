@@ -19,6 +19,10 @@ Notas del curso Introducción a la IA de Domestika.
 
 6 - K-Medias Segmentación
 
-7 - Red Neuronal de Clasificación
+7 - Red Neuronal Simple
 
+8 - Red Neuronal de Clasificación
 
+9 - Redes Neuronales Convolusionales
+
+10 - Transferencia de Aprendizaje
